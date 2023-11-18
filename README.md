@@ -24,6 +24,6 @@ Are Using Different Cityhall Then You Have To Find The Location And Put It There
 ["parcel"] = {["label"] = "Parcel Collector", ["isManaged"] = false},
 
 ```
-
+JOIN DISCORD FOR SUPPORT- https://discord.gg/BSU6Zqsg2n
 
 ENJOY :D
